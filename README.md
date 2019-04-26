@@ -15,6 +15,12 @@ yarn run serve
 yarn run build
 ```
 
+### Compiles and minifies for staging
+```
+yarn run build:staging
+```
+
+
 ### Run your tests
 ```
 yarn run test

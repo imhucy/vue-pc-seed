@@ -1,0 +1,42 @@
+// 全局主色颜色
+$primary-color: #FF302D; 
+$active-color: $primary-color;
+/**
+ * 字体颜色
+ */
+// 全局基础字体颜色
+$normal-font-color: #303658;
+// 标题颜色
+$title-color: $normal-font-color;
+// 副标题颜色
+$subtitle-color: #878B94;
+// 信息描述颜色
+$info-color: #9AA7BE;
+$blue-info-color: #2E8AFA;
+$warn-color: $primary-color;
+$desc-color: $info-color;
+// 表单标签颜色
+$label-color: #AFBACD;
+// 表单提示文字字体颜色
+$placeholder-color: $info-color;
+// 超链接字体颜色
+$href-color: #1075FF;
+// 主按钮字体颜色
+$primary-button-font-color: #fff;
+// 文字按钮字体颜色
+$text-button-font-color: $href-color;
+// 禁用按钮字体颜色
+/**
+ * 背景颜色
+ */
+// 主体背景色
+$normal-bg-color: #F7F7FA;
+// 主按钮背景颜色
+$primary-button-bg-color: linear-gradient(51deg, #FF4D24 0%, #FF003E 100%);
+// 文字按钮没有背景颜色
+$text-button-bg-color: transparent;
+/**
+ * 字体或者背景颜色
+ */
+// #E0E6ED border login form input
+// #ECECF3 border home
